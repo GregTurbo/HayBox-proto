@@ -223,7 +223,7 @@ enum OutputOption {
   OUT_CS_DOWN = 38;
   OUT_PLUS = 39;
   OUT_MINUS = 40;
-  OUT_MENU = 40;
+  OUT_MENU = 41;
 }
 
 /**
