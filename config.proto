@@ -224,6 +224,8 @@ enum OutputOption {
   OUT_PLUS = 39;
   OUT_MINUS = 40;
   OUT_MENU = 41;
+  OUT_L = 42;
+  OUT_R = 43;
 }
 
 /**
