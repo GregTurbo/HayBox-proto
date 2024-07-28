@@ -86,7 +86,7 @@ GameModeConfig.applicable_backends max_count:10
 GameModeConfig.applicable_backends int_size:IS_8
 GameModeConfig.menu_button_icon max_count: 7
 GameModeConfig.menu_button_icon int_size:IS_8
-GameModeConfig.menu_button_icon.fixed_length:true
+GameModeConfig.menu_button_icon fixed_length:true
 Config.default_dashboard_option int_size:IS_8
 LayoutPlate long_names:false
 DashboardOption long_names:false
