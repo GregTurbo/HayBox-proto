@@ -179,6 +179,8 @@ enum RgbAnimationId {
   RGB_ANIM_STATIC = 1;          // Static - no animation.
   RGB_ANIM_BREATHE = 2;         // Simple "breathing" (fade in, fade out) animation.
   RGB_ANIM_REACTIVE_SIMPLE = 3; // Per-key reactive LED (keys light up when pressed).
+  RGB_ANIM_RAINBOW_SHIFT = 4;
+  RGB_ANIM_RAINBOW_XWAVE_LEFT = 5;
 }
 
 enum OutputOption {
