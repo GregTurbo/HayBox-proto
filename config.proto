@@ -140,6 +140,8 @@ enum GameModeId {
   // Custom gamemode - a [GameModeConfig](#gamemodeconfig) using this mode id must set
   // GameModeConfig.custom_mode_config to reference a [CustomModeConfig](#custommodeconfig).
   MODE_CUSTOM = 7;
+  // Built-in 64 mode
+  MODE_64 = 8;
 }
 
 /**
