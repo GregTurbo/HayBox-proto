@@ -230,6 +230,8 @@ enum OutputOption {
   OUT_MENU = 41;
   OUT_L = 42;
   OUT_R = 43;
+  OUT_XB_START = 44;
+  OUT_XB_BACK = 45;
 }
 
 /**
