@@ -142,6 +142,8 @@ enum GameModeId {
   MODE_CUSTOM = 7;
   // Built-in 64 mode
   MODE_64 = 8;
+  // Built-in Rivals 2 mode.
+  MODE_RIVALS_OF_AETHER = 9;
 }
 
 /**
