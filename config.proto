@@ -145,7 +145,7 @@ enum GameModeId {
   // Built-in Rivals 2 mode.
   MODE_RIVALS2 = 9;
   //number of enum members
-  NUM_VALUES = 10;
+  MODE_NUM_VALUES = 10;
 }
 
 /**
