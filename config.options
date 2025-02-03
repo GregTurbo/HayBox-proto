@@ -55,11 +55,11 @@ RgbConfig.button_colors max_count:60
 RgbConfig.animation int_size:IS_8
 RgbConfig.speed int_size:IS_8
 
-Config.game_mode_configs max_count:10
-Config.communication_backend_configs max_count:10
-Config.custom_modes max_count:5
-Config.keyboard_modes max_count:5
-Config.rgb_configs max_count:10
+Config.game_mode_configs max_count:30
+Config.communication_backend_configs max_count:15
+Config.custom_modes max_count:10
+Config.keyboard_modes max_count:10
+Config.rgb_configs max_count:30
 Config.default_backend_config int_size:IS_8
 Config.default_usb_backend_config int_size:IS_8
 Config.rgb_brightness int_size:IS_8
