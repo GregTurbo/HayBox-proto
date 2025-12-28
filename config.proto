@@ -173,6 +173,9 @@ enum CommunicationBackendId {
   COMMS_BACKEND_NINTENDO_SWITCH = 7;
   // Configurator mode - for reading/writing config via this protocol.
   COMMS_BACKEND_CONFIGURATOR = 8;
+  COMMS_BACKEND_PASSTHROUGH_PS4 = 9;
+  COMMS_BACKEND_PASSTHROUGH_PS5 = 10;
+
 }
 
 /**
